@@ -1,0 +1,66 @@
+name: RSS Feed Update
+
+on:
+  schedule:
+    # 中国時間 毎週金曜 14:00 = UTC 6:00
+    - cron: '0 6 * * 5'
+  workflow_dispatch:  # 手動実行も可能
+
+# 権限設定（明示的に書き込み権限を付与）
+permissions:
+  contents: write
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        # 書き込み権限でチェックアウト
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # 完全な履歴を取得
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install Chrome and ChromeDriver
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+        # ChromeDriverのパスを環境変数に設定
+        echo "CHROME_DRIVER_PATH=/usr/lib/chromium-browser/chromedriver" >> $GITHUB_ENV
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run RSS generator
+      run: |
+        python generate_rss.py
+      env:
+        PATH: ${{ env.CHROME_DRIVER_PATH }}:${{ env.PATH }}
+    
+    - name: Check if feed.xml changed
+      id: check_changes
+      run: |
+        if git diff --staged --quiet feed.xml; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push if changed
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git commit -m "Update RSS feed $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+      env:
+        # トークンを明示的に指定
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
