@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>CHINA BUSINESS QUARTERLY - みずほ銀行</title>
+    <link>https://your-github-username.github.io/mizuhocbq-rss/feed.xml</link>
+    <description>みずほ銀行が提供する中国経済・ビジネスに関する最新レポートのRSSフィードです。</description>
+    <atom:link href="https://your-github-username.github.io/mizuhocbq-rss/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年1月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0145-XF-0105.pdf</link>
+      <description>中国経済の先行きについて、中国のカーボンニュートラル（そのチャレンジとチャンス）について、中国における全国統一炭素排出権取引市場の始動について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0145-XF-0105.pdf</guid>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年2月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0146-XF-0105.pdf</link>
+      <description>2022年の中国の経済政策方針、本格導入に向け実証実験が進むデジタル人民元、コロナ禍での中国自動車市場(～業界再編及び電動シフトの加速～)、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0146-XF-0105.pdf</guid>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年3月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0147-XF-0105.pdf</link>
+      <description>中国の脱炭素へ向けたロードマップ、中国系企業の対日進出と新領域における日中企業連携について、中国の標準化領域の概観と今後の展望～「国家標準化発展要綱」等の発表を踏まえて～、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0147-XF-0105.pdf</guid>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年4月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/china/pdf/R512-0148-XF-0105.pdf</link>
+      <description>全人代にみる2022年の中国経済、日本車はなぜ中国で好調なのか、中国産業分野のカーボンニュートラル政策～新5ヵ年計画期の省エネ・低炭素戦略の課題と展望～、中国における独禁法の執行強化の動向、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/china/pdf/R512-0148-XF-0105.pdf</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年5月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0149-XF-0105.pdf</link>
+      <description>高齢化対応国家戦略の強化動向と市場展望、中国における新エネルギー自動車（NEV）関連政策・法規制の概要、国会社法の改定、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0149-XF-0105.pdf</guid>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年6月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0150-XF-0105.pdf</link>
+      <description>中国のデジタル経済政策の強化動向と将来展望、日本と中国の経済安全保障法制、中国の輸出規制の立法動向及び日系企業のコンプライアンス対応、「民法典」時代の中国における知的財産権に対する民事上の保護、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0150-XF-0105.pdf</guid>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年上期総集編＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0151-XF-0105.pdf</link>
+      <description>2022年上期に発行した内容をテーマ別に纏めてご覧頂けるよう、7月号に別添したもの。</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0151-XF-0105.pdf</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年07月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0152-XF-0105.pdf</link>
+      <description>中国におけるに地域・都市化政策にみる双循環戦略の強化動向について、中国におけるメタバースの現状について、日本本社と現地法人から見た中国データ三法への実務上の対応策について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0152-XF-0105.pdf</guid>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年08月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0153-XF-0105.pdf</link>
+      <description>新5カ年計画のエネルギー領域の政策動向、コロナ禍での労働関係と雇用管理について、新エネルギー自動車に関する新たなビジネスモデルとその法的側面について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0153-XF-0105.pdf</guid>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年09月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0154-XF-0105.pdf</link>
+      <description>最新の中国経済情況、環境保護産業の発展動向と市場展望、ＥＶ素材をめぐる経済安全保障、中国データ安全監督管理に対するメタバースによる影響と展望、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0154-XF-0105.pdf</guid>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年10月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0155-XF-0105.pdf</link>
+      <description>最新の中国高級車市場について、最新の中国労務対応策検討について、最新の中国税制改革について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0155-XF-0105.pdf</guid>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年11月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0156-XF-0105.pdf</link>
+      <description>中国における健康産業の発展促進と市場拡大への展望、中国における中古車市場の最新動向について、中国における企業のパブリックデータ使用について、中国における広告分野のリスク対応について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0156-XF-0105.pdf</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2022年12月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0157-XF-0105.pdf</link>
+      <description>中国式現代化と経済社会政策について、中国の人口減少と中国経済への影響について、中国における5G推進施策について、中国における自動車関連データの取扱いについて、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0157-XF-0105.pdf</guid>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年01月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0158-XF-0105.pdf</link>
+      <description>2023年の中国経済について、メタバースの産業発展施策と市場展望、米国等の対中規制の動向と“中国的”経済安全保障、外商投資安全保障審査の概要及び最新動向、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0158-XF-0105.pdf</guid>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年02月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0160-XF-0105.pdf</link>
+      <description>足元の中国経済と消費の回復について、人民元国際化の現状と将来展望、中国における環境コンプライアンス対応での要点、中国におけるセクハラに関する最新動向、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0160-XF-0105.pdf</guid>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年03月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0161-XF-0105.pdf</link>
+      <description>中国企業の日本投資の最新動向について、中国の水素エネルギーの発展戦略と将来展望、中国会社法改正法案概要と企業にあたえる影響、データから見る中国知的財産権の発展状況と課題、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0161-XF-0105.pdf</guid>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年04月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0162-XF-0105.pdf</link>
+      <description>習近平政権3期目の新政府が始動、中国の産業強化策について、中国の個人情報域外移転について、情報漏洩等インシデント発生時の対応措置と法的責任、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0162-XF-0105.pdf</guid>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年05月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0163-XF-0105.pdf</link>
+      <description>足元の中国経済動向、中長期内需拡大策の強化と将来展望、日本の半導体装置輸出管理に関する最新動向、中国「独占禁止法」改正による外資系企業のコンプライアンス管理への影響、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0163-XF-0105.pdf</guid>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年06月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0164-XF-0105.pdf</link>
+      <description>足元の経済動向と政策について、ロボット応用拡大の施策と市場展望、中国におけるビジネスとESGの融合、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0164-XF-0105.pdf</guid>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年07月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0166-XF-0105.pdf</link>
+      <description>中国対内外直接投資の現状と展望、標準契約の方式によるデータの域外移転について、中国における事業再編の法的実務及び留意点、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0166-XF-0105.pdf</guid>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年08月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0167-XF-0105.pdf</link>
+      <description>中央政治局会議に見る経済政策方針、「一帯一路」10周年の現状と展望、中国現地法人による香港・中国本土上場、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0167-XF-0105.pdf</guid>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年09月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0168-XF-0105.pdf</link>
+      <description>中国の足元の経済情勢と経済政策について、中国からの訪日客低迷の背景と23年の見通し、中国における生成AIの創発ブームとAI産業の発展動向、アフターコロナにおける中国国有企業との付き合い方（1）、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0168-XF-0105.pdf</guid>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年10月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0169-XF-0105.pdf</link>
+      <description>足元の景気動向について、アフターコロナ・ウィズコロナにおける中国観光業の現状と展望、企業のESGマネジメントシステムの構築について、アフターコロナにおける中国国有企業との付き合い方（2）、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0169-XF-0105.pdf</guid>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年11月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0170-XF-0105.pdf</link>
+      <description>足元の中国経済動向、製造業主要分野における安定成長対策の展開動向と市場展望、中国『会社法』三審案の改正ポイントと実務対応、アフターコロナにおける中国国有企業との付き合い方（3）、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0170-XF-0105.pdf</guid>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2023年12月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0171-XF-0105.pdf</link>
+      <description>足元の中国経済動向、新産業標準化推進と知財活用によるイノベーション発展の強化と展望、欧州の中国製EVに対する反補助金調査と日本企業の留意点、アフターコロナにおける中国国有企業との付き合い方（4）、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0171-XF-0105.pdf</guid>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年1月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0172-XF-0105.pdf</link>
+      <description>中央経済工作会議に見る経済政策方針、中国グリーン金融の発展と展望、中国への駐在員派遣の現状と展望、中国のデータ・個人情報の域外移転規制について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0172-XF-0105.pdf</guid>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年2月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0173-XF-0105.pdf</link>
+      <description>中国の民営経済、中国の対外貿易の現状と展望、中国会社法の改正による外商投資企業への影響と求められる対応、実務から見た外商投資企業の倒産、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0173-XF-0105.pdf</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年4月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0174-XF-0105.pdf</link>
+      <description>中国新車市場の変調、容易ではない「＋5.0％前後」の達成、「新質生産力」　～中国産業政策における新たなキーワード～、中国における個人情報越境の実務と動向、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0174-XF-0105.pdf</guid>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年5月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0175-XF-0105.pdf</link>
+      <description>中国市場の重要性は不変か、中国経済は幸先好調ながら先行き不透明感も、中国の高齢化社会に向けた最新産業政策、中国会社法改正の外資系企業への影響、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0175-XF-0105.pdf</guid>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年6月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0176-XF-0105.pdf</link>
+      <description>中国で日系EVが勝ち残る道、直近の住宅在庫の買い取り策について、中国文化産業の最新展望、「データ越境流動の促進及び規範化に関する規定」を公布、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0176-XF-0105.pdf</guid>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年7月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0177-XF-0105.pdf</link>
+      <description>物価指数の特徴と展望、中国経済の過剰生産能力への見立て、中国の自動運転の発展動向と市場展望、中国の自動運転の発展動向と市場展望、事例研究：中国知財紛争での効果的な対応、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0177-XF-0105.pdf</guid>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年8・9月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0178-XF-0105.pdf</link>
+      <description>中国における日系自動車サプライヤーの課題と対応、中国3中全会が「強国」路線を再確認、中国保険産業の発展動向と将来展望、中国の生成AI（人工知能）の発展状況とビジネス応用事例分析、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0178-XF-0105.pdf</guid>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年10月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0179-XF-0105.pdf</link>
+      <description>世界最大の中間層がいる市場、日本企業の中国進出動向について、中国のスマート製造の発展現状と市場展望、中国現地法人における不正対応の考察、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0179-XF-0105.pdf</guid>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年11月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0180-XF-0105.pdf</link>
+      <description>中国のNEVシフトと自動車業界の変化、定年引き上げで中国の潜在成長率は上昇、新型都市化の発展現状と再強化政策の将来展望、「ネットワークデータセキュリティ管理条例」の公布について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0180-XF-0105.pdf</guid>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2024年12月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0181-XF-0105.pdf</link>
+      <description>景気刺激策躊躇の裏に「四兆元」のトラウマ、中国は「バズーカ」を放ったのか、中国のスマート養老の発展現状と将来展望、中国労働法における降格・減給問題、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0181-XF-0105.pdf</guid>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2025年1月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0182-XF-0105.pdf</link>
+      <description>中国EVの知能化シフトと日本企業の対応、中央経済工作会議にみる経済政策方針、中国AI産業の最新動向と展望、法定退職年齢の段階的引上げ政策、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0182-XF-0105.pdf</guid>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2025年2月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0183-XF-0105.pdf</link>
+      <description>過去最高を記録した貿易黒字、追加関税は中国経済を一段と下押しへ、中国の養老金融の発展現状と将来展望、中国、高齢者の暮らし調査‐暮らし方・介護、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0183-XF-0105.pdf</guid>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS MONTHLY＜2025年3月号＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0184-XF-0105.pdf</link>
+      <description>｢中国自動車の知能化時代｣で岐路に立つ日本車メーカー、中国の人口減少の実態と対応、中国のロボット応用の促進と市場拡大の展望、中国　高齢者の暮らし調査‐収入源・就労、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0184-XF-0105.pdf</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS QUARTERY＜2025年Spring＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0185-XF-0105.pdf</link>
+      <description>中国AI産業の育成にみるデジタルイノベーション、「杭州六小龍」が生まれた理由、三たび「＋5％前後」を目指す中国、資金洗浄防止法の改正について、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0185-XF-0105.pdf</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS QUARTERY＜2025年Summer＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0186-XF-0105.pdf</link>
+      <description>中国企業の対外展開の拡大動向と促進要因の概観、中国企業の「対日投資」最前線、中国個人投資家の対日不動産投資、消費喚起に躍起になる中国、中国の富裕層がこぞって日本で家を買う理由、ほか</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0186-XF-0105.pdf</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（8）中国マンション管理サービスのスマート化 ～ITテクノロジー活用の実態と課題～</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0204-XF-0105.pdf</link>
+      <description>●大手業者はAI・IT活用で業務効率とサービス品質が高度化●スマート団地で安全性・利便性・管理透明性が向上●専用アプリによる新サービスが普及●一方、中小業者・旧団地とのIT活用やサービス格差が顕在化</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0204-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（7）レアアース輸出管理から読み解く～中国の両用品目に対する輸出管理制度と実務対策～</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0203-XF-0105.pdf</link>
+      <description>●レアアース等の重要資源の輸出管理を強化●管理リスト等により、企業や最終用途ごとに取引や許可審査を実施●許可申請には多面的な情報開示が必須●多国の安全保障制度を整合したコンプライアンス体制の整備が重要</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0203-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（6）本格的な過渡期に差し掛かりつつある中国経済～足元の景気と議論が示唆すること～</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0202-XF-0105.pdf</link>
+      <description>●2025年前半は成長率5％超で推移●消費・投資にやや減速の兆し●買い替え政策で消費刺激も限定的●今後はイノベ推進と競争抑制が課題</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0202-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（5）中国における自動運転の法制度の整備と課題</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0201-XF-0105.pdf</link>
+      <description>●中国は自動運転を国家戦略で推進●日本は法整備進む一方、社会実装が遅い●中国は法や規制の統一化が今後の課題●日本は商用推進や海外展開が必要</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0201-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（4)	中国自動車業界の支払サイトの変化とその対応策について</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0200-XF-0105.pdf</link>
+      <description>●中国自動車業界、支払サイト延長が常態化●新条例施行で60日以内支払いを企業に義務付け●運用現場では適用範囲や抜け道利用も課題●日系など各社は資金管理や契約見直しが重要</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0200-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（3）中国消費者はなぜEVを選ぶのか ～カテゴリ別分析で読む地殻変動～</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0199-XF-0105.pdf</link>
+      <description>●中国NEV市場は爆発的成長中●低価格EVが市場を席巻●日系自動車は中価格帯で苦戦●高価格帯はブランド力が重要</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0199-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（2)中東地域における中国EVの進出加速</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0198-XF-0105.pdf</link>
+      <description>●中国EVが中東で急速に普及●富裕層を中心に幅広い顧客層●インフラ整備や脱炭素で成長●北アフリカ等への波及も視野</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0198-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（1） EV車を中心とする中国乗用車市場の動向・構造と海外展開について</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0197-XF-0105.pdf</link>
+      <description>●中国乗用車市場は国産・EVが急成長●新エネルギー車の年間普及率45％●海外進出で東南アジアや新興国で存在感増●政策支援・インフラ改革が今後の成長鍵</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0197-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS QUARTERY＜2025年Autumn＞（全文）</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0187-XF-0105.pdf</link>
+      <description>●【特集】世界をリードする中国自動車の実像●本格的な過渡期に差し掛かりつつある中国経済●中国の両用品目に対する輸出管理制度と実務対策●中国マンション管理サービスのスマート化　etc.</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0187-XF-0105.pdf</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（7）2025 年中国労働法制の変更点と社会保険の実務動向</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0196-XF-0105.pdf</link>
+      <description>●2025年、中国人事労務で制度変更が多発 ●定年再雇用、社会保険未加入の合意の無効、無固定期間労働契約の基準などが明確●上海の外国人社会保険加入率は増加傾向</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0196-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（6）中国政府調達市場の最新動向 -国産品基準の明確化による外資企業への影響-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0195-XF-0105.pdf</link>
+      <description>●中国政府調達は市場規模が拡大●外資参入の障壁が徐々に改善●2026年1月から国産品基準が明確化●機会と課題が共存、現地化とリスク管理が鍵</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0195-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（5）中央経済工作会議にみる経済政策方針 -住民増収計画にはじめて言及-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0194-XF-0105.pdf</link>
+      <description>●内需拡大・技術革新・住民増収計画を重視●財政・金融政策は積極姿勢を維持 ●不動産新規供給の厳格抑制●供給過剰・需要不足解消に注力</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0194-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（4）中国ヒューマノイド企業の技術力分析 -中国部品で揃えた低価格ロボットの実現可能性を考察する-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0193-XF-0105.pdf</link>
+      <description>●中国製部品の国産化が進む一方、信頼性は課題●日本製は品質と耐久性に優位性を持つ一方、量産化とコスト面で中国に劣る、特定用途に特化することで活路を見出すべき</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0193-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（3）中国のヒューマノイドの社会実装の現状と展望</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0192-XF-0105.pdf</link>
+      <description>●中国では実用化段階へ移行している●EVメーカーも参加、競争が激化●政府支援、研究開発力、人材、データ等独自の強みは背景</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0192-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（2）加速する中国のヒューマノイドロボット戦略 -米国との競争構造と日本への示唆-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0191-XF-0105.pdf</link>
+      <description>●中国は新興企業が市場を牽引、製品化のスピードで他国を圧倒●米国は軍事需要と大手テック投資が投資を牽引、性能・安全性、IP保護を重視</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0191-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（1）中国エンボディードAIロボット産業の全体像</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0190-XF-0105.pdf</link>
+      <description>●2025年を「量産元年」とする市場の幕開け●中国政府は強力な支援政策を次々と発表●資本市場も活況、産業が成熟しつつある</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0190-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS QUARTERY＜2026年1-3月＞（全文）</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0188-XF-0105.pdf</link>
+      <description>●【特集】中国のヒューマノイドロボットの現在地●中央経済工作会議にみる経済政策方針●中国の政府調達市場の最新動向●2025年中国労働法制の変更点　etc.</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0188-XF-0105.pdf</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（7）増値税実施条例の解説‐概ね現行体制を維持する一方、重要な変更項目に留意が必要‐</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0212-XF-0105.pdf</link>
+      <description>●増値税の課税対象、税率、納税義務者、控除制度などを規定●輸出入や特定取引の扱いも明確化●申告・納付手続きや罰則規定も記載</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0212-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（6）中国での事業再編について‐近時の傾向や相談事例を踏まえて‐</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0211-XF-0105.pdf</link>
+      <description>●中国ビジネス撤退のリスクと手続きの要点を解説●撤退時の法的・実務的留意点を具体的に提示●事前準備や現地対応の重要性を強調</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0211-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（5）十五次五ヵ年計画の要点分析 -消費需要拡大に向けた政策は少なめ-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0210-XF-0105.pdf</link>
+      <description>●第15次5ヵ年計画は産業技術力やデジタル・AI分野強化、技術革新・新産業育成が重点●出産・育児支援や人口減少対策も明確化</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0210-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（4）全人代を終えて -構造改革の必要性を強める中国経済-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0209-XF-0105.pdf</link>
+      <description>●世界経済の減速傾向が続き、各国の金融政策が注目される●円安傾向が続き、日本の輸出企業には追い風●中国人民元は景気対策期待も元安圧力が続く</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0209-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（3）中国消費市場における日本企業のブランディングとマーケティング戦略</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0208-XF-0105.pdf</link>
+      <description>●中国市場では施策の均質化により従来手法の効果が低下●「何をやるか」より「何のためにやるか」が重要に●CEP理論を活用し、ブランドの差別化と目的明確化が求められる</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0208-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（2）中国消費市場の変質とビジネスチャンス -日系企業が掴むべき「情緒」と「信頼」の商機-</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0207-XF-0105.pdf</link>
+      <description>●中国消費は節約志向が強まり、外食や自動車で客単価が低下●日本企業は「値価比」や「情緒経済」への対応力で信頼を得ることが重要2026年には産業・物流現場で導入が進展</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0207-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（1）中国の第15次5カ年計画期(2026～2030年)における消費振興の課題</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0206-XF-0105.pdf</link>
+      <description>●中国は消費拡大を重視し、消費券配布や新興分野支援など多様な政策を推進●地域や業界ごとに施策を展開し、内需拡大と経済成長を目指す</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0206-XF-0105.pdf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS QUARTERY＜2026年4-6月＞（全文）</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0205-XF-0105.pdf</link>
+      <description>●【特集】中国消費の現在地～政策・トレンドと企業戦略●全人代を終えて -構造改革の必要性を強める中国経済●十五次五ヵ年計画の要点分析●中国での事業再編について　etc.</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0205-XF-0105.pdf</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（7）中国事業戦略を実現する人材の獲得～変革を牽引する人材の育成、人材戦略の策定が急務～</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0220-XF-0105.pdf</link>
+      <description>●中国事業は販売/製造中心から、調達・輸出や開発拠点化へ転換が進む●必要人材は順守型→市場洞察・変革推進型。本社連携・文化調整も鍵●創造/説得/戦略が弱点。潜在力選抜で重点育成し、人材戦略を刷新、急務</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0220-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（6）外国制裁に対する中国のカウンターアクションと日本企業のポジショニング</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0219-XF-0105.pdf</link>
+      <description>●中国が禁止令を発令し、米制裁（OFAC）順守を禁止。対抗措置が本格運用。●EU調査も「不当域外管轄」として協力禁止、リスト制裁が拡張。●日系は米中法の板挟み。表現・契約条項を統制し、修正合意で回避。</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0219-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（5）中国経済の内外不均衡の影響</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0218-XF-0105.pdf</link>
+      <description>●過剰生産と需要不足でデフレ圧力、若年失業高止まり●輸出増・輸入停滞と「隠れ元安」で経常黒字拡大、摩擦懸念●スワン図は点B。内需・消費拡大で点Cへ、財政拡張と社保/戸籍改革で貯蓄率低下構造転換が急務。</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0218-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（4）中国金融法の立法動向と環境金融の発展機会</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0217-XF-0105.pdf</link>
+      <description>●金融法草案×生態環境法典で環境金融が法治化、開示と責任追及が強化。●支援ツールでローン/SLL/ボンド拡大。●目録照合、炭素データ、資格、資金使途管理でGW防止、早期整備が鍵。調達コスト低減も狙う。</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0217-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（3）IPコラボ常態化時代、長期売上創出の鍵を探る</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0216-XF-0105.pdf</link>
+      <description>●常態化で同質化、単発依存は限界。価値観適合を起点に情緒価値を共創●限定×定番でリピート化し、会員・私域へ誘導。データ運用と長短IP配分、現地IP共振</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0216-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（2）中国IP市場の最新動向〜日本IPが直面するチャンスとリスク〜</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0215-XF-0105.pdf</link>
+      <description>●巨大市場(付加価値6.2兆元)で日本IPは映画/アニメ等でも存在感●国産IP重視、メディアミックスとグッズ/イベント、短尺動画が伸長●外資・検閲、冒認商標/海賊版/回収難、外交変動に備えSNSで育成</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0215-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（1）中国文化産業の戦略強化と国際プレゼンスの拡大</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0214-XF-0105.pdf</link>
+      <description>●中国は十五五で文化強国加速、AI/デジタル基盤・基金で自国IP育成・輸出●アニメ/映画/ゲーム/小説で中国IP急伸、量は中国・質は日本が強み</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0214-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CHINA BUSINESS QUARTERY＜2026年7-9月＞</title>
+      <link>https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0213-XF-0105.pdf</link>
+      <description>●【特集】中国の文化・IP産業～チャンスと挑戦～●中国文化産業の戦略強化と国際プレゼンスの拡大●中国IP市場の最新動向●IPコラボ常態化時代、長期売上創出の鍵を探る　etc.</description>
+      <guid isPermaLink="true">https://www.mizuhobank.co.jp/corporate/world/info/cndb/economics/monthly/pdf/R512-0213-XF-0105.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
