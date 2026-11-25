@@ -12,44 +12,68 @@ permissions:
 jobs:
   update-rss:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
-    
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         cache: 'pip'
-    
+
     - name: Install Google Chrome
       run: |
-        # Google Chromeのインストール（Snapではなくdebパッケージを使用）
-        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+        # Google Chromeのインストール（Ubuntu 26.04対応: apt-keyは廃止済み）
+        sudo mkdir -p /etc/apt/keyrings
+        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub \
+          | sudo gpg --dearmor -o /etc/apt/keyrings/google-chrome.gpg
+        echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" \
+          | sudo tee /etc/apt/sources.list.d/google-chrome.list
         sudo apt-get update
         sudo apt-get install -y google-chrome-stable
-        # ChromeDriverのインストール
-        sudo apt-get install -y chromium-chromedriver
-        # バージョン確認
         google-chrome --version
+
+    - name: Install matching ChromeDriver
+      run: |
+        # インストール済みChromeのバージョンに一致するChromeDriverを取得
+        CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
+        echo "Detected Chrome version: $CHROME_VERSION"
+
+        # Chrome for Testing の既知の良いバージョン(JSON)から該当バージョンのURLを取得
+        DRIVER_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json" \
+          | jq -r --arg v "$CHROME_VERSION" \
+            '.versions[] | select(.version == $v) | .downloads.chromedriver[] | select(.platform == "linux64") | .url')
+
+        if [ -z "$DRIVER_URL" ] || [ "$DRIVER_URL" = "null" ]; then
+          # 完全一致がない場合は最新の安定版ChromeDriverにフォールバック
+          echo "Exact match not found. Falling back to latest stable chromedriver."
+          DRIVER_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" \
+            | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "linux64") | .url')
+        fi
+        echo "ChromeDriver URL: $DRIVER_URL"
+
+        wget -q -O /tmp/chromedriver.zip "$DRIVER_URL"
+        sudo unzip -o /tmp/chromedriver.zip -d /usr/local/bin/
+        sudo chmod +x /usr/local/bin/chromedriver-linux64/chromedriver
+        sudo ln -sf /usr/local/bin/chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
         chromedriver --version
-    
+
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
-    
+
     - name: Run RSS generator
       run: |
         python generate_rss.py
       env:
         # ChromeDriverのパスを明示的に設定
-        PATH: /usr/lib/chromium-browser:$PATH
-    
+        PATH: /usr/local/bin:$PATH
+
     - name: Check if feed.xml exists
       id: check_feed
       run: |
@@ -63,7 +87,7 @@ jobs:
           # デバッグ用にディレクトリ内容を表示
           ls -la
         fi
-    
+
     - name: Commit and push if changed
       if: steps.check_feed.outputs.exists == 'true'
       run: |
@@ -76,7 +100,7 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
+
     # 60日間の無効化対策（keepalive）
     - name: Keepalive（ワークフロー無効化防止）
       if: always()
